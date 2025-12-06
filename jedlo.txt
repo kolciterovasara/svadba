@@ -1,2 +1,3 @@
-vyvar 4x
-maso so zemiakmi 4x
+vyvar 7x
+maso so zemiakmi 7x
+dezert 7x
