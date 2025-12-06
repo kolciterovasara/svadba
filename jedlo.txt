@@ -1,3 +1,3 @@
-vyvar 7x
-maso so zemiakmi 7x
-dezert 7x
+vyvar 10x
+maso so zemiakmi 10x
+dezert 10x

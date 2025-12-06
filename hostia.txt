@@ -5,3 +5,6 @@ mama zenicha
 sestra nevesty
 kamaratka nevesty
 kamarat zenicha
+svedok 1
+svedok 2
+syn svedkov Janko
